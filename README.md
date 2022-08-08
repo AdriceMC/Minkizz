@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Minkizz
+- 👀 I’m interested in Programming, C++, Java mainly
+- 🌱 I’m currently learning C++
